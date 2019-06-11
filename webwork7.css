@@ -16,6 +16,8 @@ a{
 	padding-left:180px;
 	padding-right:180px;
 	margin: 0 auto;
+	font-size:13px;
+
 }
 .left li{
 	display:inline-block;
